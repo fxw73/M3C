@@ -4,9 +4,13 @@ This repository provides official implementation of M3C (TPAMI 2025)
 # Requirements
 
 Python = 3.6
+
 Pytorch = 1.6
+
 CUDA = 10.1
+
 Advertorch = 0.2.3
+
 
 Our code is primarily based on CIFS: Improving Adversarial Robustness of CNNs via Channel-wise Importance-based Feature Selection
 Hanshu Yan, Jingfeng Zhang, Gang Niu, Jiashi Feng, Vincent Y. F. Tan, Masashi Sugiyama (https://github.com/HanshuYAN/CIFS). Thank you for their contributions.
